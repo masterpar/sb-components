@@ -9,8 +9,9 @@
 /coverage
 
 # production
+/dist
 /build
-
+/storybook-static
 # misc
 .DS_Store
 .env.local
@@ -21,3 +22,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+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
+npm: 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

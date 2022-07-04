@@ -28,7 +28,7 @@ export interface Props {
 
 }
 
-const MyLabel = ({
+export const MyLabel = ({
                      label = 'No Label',
                      size = 'normal',
                     allCaps = false,
@@ -46,4 +46,3 @@ const MyLabel = ({
     );
 };
 
-export default MyLabel;

@@ -40,6 +40,9 @@
       "last 1 safari version"
     ]
   },
+  "peerDependencies": {
+    "react": ">=16"
+  },
   "devDependencies": {
     "@babel/core": "^7.18.6",
     "@storybook/addon-actions": "^6.5.9",

@@ -1,7 +1,10 @@
 {
   "name": "cc-my-storybook-components",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "license": "MIT",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.js",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
